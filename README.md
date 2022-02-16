@@ -3,13 +3,11 @@
 A crud project.
 
 live demo
-* https://ostrom-frontend.herokuapp.com
+* https://flamboyant-ardinghelli-2d20ee.netlify.app/
 
 ## Requirements:
 - Yarn
-- NodeJs
 - Git
-- nestjs
 
 ## Dependencies (libraries):
 - ReactJs
@@ -22,5 +20,4 @@ live demo
 - update config/config.json
 - run `yarn start`
 
-documentation
-* https://documenter.getpostman.com/view/733051/UVC2G8o3
+
